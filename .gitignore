@@ -1,0 +1,4 @@
+# Remove the IntelJ idea
+
+.idea*
+.idea/vcs.xml
